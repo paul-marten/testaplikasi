@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "175710539099",
+    "firebase_url": "https://tabgallery-893a2.firebaseio.com",
+    "project_id": "tabgallery-893a2",
+    "storage_bucket": "tabgallery-893a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175710539099:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "paul.develops.tabgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175710539099-etcga2lbij2o9coiffge8d9jg5ics17f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKSsoBweU9Bk3a67lshixJkHSFL71DUQ"
+        },
+        {
+          "current_key": "AIzaSyAn3CmS4XHeM-3yETVDBOpA6TCEbim7Muw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
